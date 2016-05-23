@@ -1,1 +1,1 @@
-# Python-Randomized-Q-A-Game
+Simple Q&A game that outputs randomized answers. 
